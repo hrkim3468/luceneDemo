@@ -76,6 +76,30 @@
 		    <artifactId>lucene-queryparser</artifactId>
 		    <version>4.10.3</version>
 		</dependency>
+		<dependency>
+		    <groupId>org.apache.lucene</groupId>
+		    <artifactId>lucene-facet</artifactId>
+		    <version>4.10.3</version>
+		</dependency>
+		<dependency>
+		    <groupId>org.apache.lucene</groupId>
+		    <artifactId>lucene-expressions</artifactId>
+		    <version>4.10.3</version>
+		</dependency>
+		<dependency>
+		    <groupId>org.apache.lucene</groupId>
+		    <artifactId>lucene-test-framework</artifactId>
+		    <version>4.10.3</version>
+		</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+		<dependency>
+		    <groupId>javax.servlet</groupId>
+		    <artifactId>javax.servlet-api</artifactId>
+		    <version>3.0.1</version>
+		</dependency>
+
 
 		<!-- Test -->
 		<dependency>
